@@ -1,0 +1,14 @@
+/* src/styles/VirtualizedPage.css */
+.list-item {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .list-item h3 {
+    margin: 0 0 5px;
+  }
+  
+  .list-item p {
+    margin: 0;
+  }
+  
